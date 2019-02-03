@@ -1,6 +1,6 @@
 # PhaserProject
 
-2D game made using [Phaser](https://phaser.io/)
+2D game made during my free time using Javascript, through the [Phaser](https://phaser.io/) framework for game development.
 
 ## Preview
 
