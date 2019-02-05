@@ -4,7 +4,7 @@
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/19567048/52170634-30225700-274e-11e9-8c2f-c5282dd859d1.png)
+![image](https://user-images.githubusercontent.com/19567048/52308047-9ac8d200-299c-11e9-9f72-dba865414899.png)
 
 ## Built With
 
